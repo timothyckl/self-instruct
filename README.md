@@ -1,6 +1,6 @@
 # Self-Instruct
 
-This repository contains a simple dataset generation script following [Self-Instruct](https://arxiv.org/abs/2212.10560) with Mistral models.
+This repository contains a simple dataset generation script adapted from [Self-Instruct](https://arxiv.org/abs/2212.10560) with Mistral models.
 
 ## Install Dependencies
 
