@@ -39,7 +39,6 @@ python main.py -h
 #                         Directory to store outputs
 ```
 
-## Notes
-
-- Modification of the prompt template or formatting will require appropriate changes in class methods for your use case.
-- This script uses Mistral as an example, it can be changed to use other models as well.
+> [!Note]
+> - Modification of the prompt template or formatting will require appropriate changes in class methods for your use case.
+> - This script uses Mistral as an example, it can be changed to use other models as well.
